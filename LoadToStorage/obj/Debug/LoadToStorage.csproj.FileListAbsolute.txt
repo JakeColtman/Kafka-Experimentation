@@ -1,0 +1,9 @@
+C:\Users\j.coltman\Documents\GitHub\Kafka-Experimentation\LoadToStorage\obj\Debug\LoadToStorage.csprojResolveAssemblyReference.cache
+C:\Users\j.coltman\Documents\GitHub\Kafka-Experimentation\LoadToStorage\bin\Debug\LoadToStorage.exe.config
+C:\Users\j.coltman\Documents\GitHub\Kafka-Experimentation\LoadToStorage\bin\Debug\LoadToStorage.exe
+C:\Users\j.coltman\Documents\GitHub\Kafka-Experimentation\LoadToStorage\bin\Debug\LoadToStorage.pdb
+C:\Users\j.coltman\Documents\GitHub\Kafka-Experimentation\LoadToStorage\bin\Debug\kafka-net.dll
+C:\Users\j.coltman\Documents\GitHub\Kafka-Experimentation\LoadToStorage\bin\Debug\Storage.dll
+C:\Users\j.coltman\Documents\GitHub\Kafka-Experimentation\LoadToStorage\bin\Debug\Storage.pdb
+C:\Users\j.coltman\Documents\GitHub\Kafka-Experimentation\LoadToStorage\obj\Debug\LoadToStorage.exe
+C:\Users\j.coltman\Documents\GitHub\Kafka-Experimentation\LoadToStorage\obj\Debug\LoadToStorage.pdb

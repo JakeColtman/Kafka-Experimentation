@@ -58,4 +58,9 @@
   <ItemGroup>
     <Folder Include="Properties" />
   </ItemGroup>
+  <ItemGroup>
+    <Build Include="Loads.sql" />
+    <Build Include="Company.sql" />
+    <Build Include="Company_Staging.sql" />
+  </ItemGroup>
 </Project>

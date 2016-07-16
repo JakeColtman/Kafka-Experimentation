@@ -1,0 +1,9 @@
+C:\Users\j.coltman\Documents\GitHub\Kafka-Experimentation\Kafka\Storage\bin\Debug\Storage.dacpac
+C:\Users\j.coltman\Documents\GitHub\Kafka-Experimentation\Kafka\Storage\obj\Debug\Storage.dll
+C:\Users\j.coltman\Documents\GitHub\Kafka-Experimentation\Kafka\Storage\obj\Debug\Storage.pdb
+C:\Users\j.coltman\Documents\GitHub\Kafka-Experimentation\Kafka\Storage\bin\Debug\Storage.dll
+C:\Users\j.coltman\Documents\GitHub\Kafka-Experimentation\Kafka\Storage\bin\Debug\Storage.pdb
+C:\Users\j.coltman\Documents\GitHub\Kafka-Experimentation\Kafka\Storage\obj\Debug\Model.xml
+C:\Users\j.coltman\Documents\GitHub\Kafka-Experimentation\Kafka\Storage\obj\Debug\refactor.xml
+C:\Users\j.coltman\Documents\GitHub\Kafka-Experimentation\Kafka\Storage\obj\Debug\postdeploy.sql
+C:\Users\j.coltman\Documents\GitHub\Kafka-Experimentation\Kafka\Storage\obj\Debug\predeploy.sql

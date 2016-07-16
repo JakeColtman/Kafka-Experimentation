@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Play", "Play.csproj", "{C9E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoadToStorage", "..\LoadToStorage\LoadToStorage.csproj", "{D15B3AE3-10D2-42B7-A745-405BCA45BA27}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Storage", "Storage\Storage.sqlproj", "{687A4228-E2D3-4588-8568-6A68C1A03FD6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,12 @@ Global
 		{D15B3AE3-10D2-42B7-A745-405BCA45BA27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D15B3AE3-10D2-42B7-A745-405BCA45BA27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D15B3AE3-10D2-42B7-A745-405BCA45BA27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{687A4228-E2D3-4588-8568-6A68C1A03FD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{687A4228-E2D3-4588-8568-6A68C1A03FD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{687A4228-E2D3-4588-8568-6A68C1A03FD6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{687A4228-E2D3-4588-8568-6A68C1A03FD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{687A4228-E2D3-4588-8568-6A68C1A03FD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{687A4228-E2D3-4588-8568-6A68C1A03FD6}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

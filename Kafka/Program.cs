@@ -8,6 +8,7 @@ using KafkaNet.Common;
 using KafkaNet.Protocol;
 using KafkaNet.Model;
 
+
 namespace ConsoleApplication2
 {
     class Program
@@ -18,12 +19,13 @@ namespace ConsoleApplication2
             var router = new BrokerRouter(options);
             var client = new Producer(router);
 
-            client.SendMessageAsync("TestHarness", new[] { new Message("Hello", "World") }).Wait();
+            client.SendMessageAsync("TestHarness", new[] { new Message("1,JakeInc,Jake") }).Wait();
+            client.SendMessageAsync("TestHarness", new[] { new Message("2,JakeLtd,JakeColtman") }).Wait();
 
             System.Threading.Thread.Sleep(2000);
 
             var consumer = new Consumer(new ConsumerOptions("TestHarness", router));
-
+            
             //Consume returns a blocking IEnumerable (ie: never ending stream)
             foreach (var message in consumer.Consume())
             {

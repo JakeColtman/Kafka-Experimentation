@@ -1,0 +1,6 @@
+C:\Users\j.coltman\Documents\GitHub\Kafka-Experimentation\Kafka\obj\Debug\Play.csprojResolveAssemblyReference.cache
+C:\Users\j.coltman\Documents\GitHub\Kafka-Experimentation\Kafka\obj\Debug\ConsoleApplication2.exe
+C:\Users\j.coltman\Documents\GitHub\Kafka-Experimentation\Kafka\obj\Debug\ConsoleApplication2.pdb
+C:\Users\j.coltman\Documents\GitHub\Kafka-Experimentation\Kafka\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\j.coltman\Documents\GitHub\Kafka-Experimentation\Kafka\bin\Debug\ConsoleApplication2.exe
+C:\Users\j.coltman\Documents\GitHub\Kafka-Experimentation\Kafka\bin\Debug\ConsoleApplication2.pdb
